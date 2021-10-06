@@ -1,0 +1,7 @@
+.idea
+start.sh
+stop.sh
+deploy.sh
+.DS_Store
+website_application
+website_application.exe
